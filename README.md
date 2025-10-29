@@ -38,7 +38,7 @@ The dataset contains information about:
 ---
 
 ## 🖼️ Dashboard Preview
-![Blinkit Dashboard](dashboard_preview.png)
+![Blinkit Dashboard](blinkit dashboard.png)
 
 ---
 
