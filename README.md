@@ -65,4 +65,4 @@ The dataset contains information about:
 
 ---
 
-✨ **This project demonstrates Power BI skills for data analysis and visualization — ideal for analytics portfolios.**
+
