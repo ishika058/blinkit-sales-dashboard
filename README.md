@@ -37,11 +37,6 @@ The dataset contains information about:
 
 ---
 
-## 🖼️ Dashboard Preview
-![Blinkit Dashboard](blinkit dashboard.png)
-
----
-
 ## 🪜 How to View the Dashboard
 1. Download the `.pbix` file from this repository.
 2. Open it in **Power BI Desktop**.
@@ -59,8 +54,7 @@ The dataset contains information about:
 ## 📁 Files in this Repository
 | File Name | Description |
 |------------|-------------|
-| `Blinkit_Sales_Dashboard.pbix` | Power BI dashboard file |
-| `Blinkit_Dataset.csv` | Raw dataset used in Power BI |
+| blinkit dashboard.png | Power BI dashboard  |
 | `README.md` | Project documentation |
 
 ---
